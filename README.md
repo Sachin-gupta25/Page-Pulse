@@ -1,10 +1,3 @@
-# Page Pulse
-
-Page Pulse audits any public website: drop in a URL and get its HTTP status, response
-time, page title, meta description, H1 count, images missing alt text, and an
-approximate word count — all in one clean, responsive report.
-
-Built for **Digital Heroes Training Task** — https://digitalheroesco.com
 
 ---
 
